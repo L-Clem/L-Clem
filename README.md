@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat
 <!--
 **L-Clem/L-Clem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
