@@ -1,1 +1,2 @@
 ### Hey !
+[Contribution guidelines for this project](./README.md)
