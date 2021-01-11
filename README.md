@@ -1,4 +1,6 @@
 ### Hi there 👋
+[Contribution guidelines for this project](./READMEEN.md)
+
 
 Langages : <br>
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
