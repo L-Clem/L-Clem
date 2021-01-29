@@ -4,11 +4,6 @@
 
 <!-- https://medium.com/javascript-in-plain-english/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 
-<style type="text/css">
-.tg td{border-width:0px;font-family:Arial, sans-serif;font-size:14px; padding:10px 5px;}
-.tg .tg-sn4r{font-weight:bold;text-align:left;vertical-align:top;border-bottom: 1px dashed;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top;border-bottom: 1px dashed;}
-</style>
 <table class="tg">
 <tbody>
   <tr>
