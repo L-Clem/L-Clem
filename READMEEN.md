@@ -4,10 +4,13 @@
 <!-- https://medium.com/javascript-in-plain-english/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 Languages : 
 <br>
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-CSS3-1572B6?logo=&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square)
 <br>
+
 Tools : 
 <br>
 ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
