@@ -4,44 +4,62 @@
 
 &#127760; _Choose your_ &#128483; : [&#127467;&#127479;](./README.md) | [&#127468;&#127463;](./READMEEN.md)
 
+---
 
+
+[Pour voir mon GitHub Skyline !](https://skyline.github.com/l-clem/2021)
+
+
+##Présentation 
+🔭 Vous trouverez ici une liste (non exhaustive et en constante évolution) de projets que j'ai pu réaliser jusqu'à ce jour, triés en deux catégories principales : 
+- 🎓 pour les projets d'études 
+- et 💻 pour les projets réalisés en autonomie. 
+
+Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en privé (🔒) :
+
+###🎓 Cours
+
+- 🎓📦📂 : &nbsp; **[Workshop 2020 EPSI](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet de groupe*]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un jeu vidéo sur le thème "Conception et valorisation d'un jeu vidéo et de son univers".
+<br>
+- 🎓📦🔒 : &nbsp; **Web App - Banque Alimentaire bordeaux**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet Transversal - Projet de groupe*] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un site web regroupant l'ensemble des bénévoles de la banque alimentaire de bordeaux.
+<br>
+- 🎓 : &nbsp; **Infrastructure Réseau**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet Transversal - Projet de groupe*] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design de l'infrastructure réseau et équipement d'une entreprise.
+<br>
+- 🎓 : &nbsp; **Website personnel avec Back-End PHP**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un blog personnel.
+<br>
+###💻 Personnels
+
+- 💻📦📂 : &nbsp; **[Micro-CV](https://github.com/L-Clem/cv)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un site web SP (*Single Page*) simulant un CV au format papier A4.
+<br>
+- 💻📦🔒 : &nbsp; **Bot Discord serveur EPSI**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un Bot pour les premières années sur le serveur Discord du BDE (*Bureaux des Étudiants*) de mon école (EPSI bordeaux).
+<br>
+- 💻📦🔒 : &nbsp; **Générateur factures PDF**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programme générateur de factures en JavaScript avec la bibliothèque Node.JS [PDF-Kit](https://pdfkit.org/).
+<br>
+- 💻/🎓📦📂 : &nbsp; **[MiniPy](https://github.com/L-Clem/MiniPy)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository comprenant différents *one file scripts* en Python.
+<br>
+- 💻 : &nbsp; **C&F d'un [Dodow<sup>&reg;</sup>](https://www.mydodow.com/dodow/fr-fr/home) avec un Arduino**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conception & Fabrication d'un réceptacle imprimé en 3D, d'un objet et d'un programme reproduisant les comportements et fonctionnalités d'un Dodow<sup>&reg;</sup>.
+<br> 
+- 💻 : &nbsp; **C&F d'une banque Monopoly avec cartes NFC**
+Conception & Fabrication d'une banque Monopoly alternative utilisant des cartes NFC et un Arduino + Keypad.
+
+
+<br>
 
 ---
 
-<!--
-**L-Clem/L-Clem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Devrait se remplir un jour ^^
-<!-- 🔭 Voici une liste (non exhaustive) de quelques projets que j'ai pu réaliser à ce jour :
-
--  -->
-  
-
-
-
-
-
-
-
-
-
-
-
 <!-- https://medium.com/javascript-in-plain-english/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
-
-
 
 Mes langages : | Mes outils :
 -------------- | -------------
