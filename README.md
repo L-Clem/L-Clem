@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Bienvenue%20sur%20mon%20GitHub%20&#128075;&fontSize=40&animation=twinkling">
 </center>
 
-&#127760; _Choose your_ &#128483; : [&#127467;&#127479;](./README.md) | [&#127468;&#127463;](./READMEEN.md)
+&#127760; _Choose your_ &#128483; : [&#127468;&#127463;](./READMEEN.md)
 
 ---
 
@@ -20,14 +20,14 @@ Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en priv�
 
 ## 🎓 Cours
 
-- 🎓📦📂 : &nbsp; **[Workshop 2020 EPSI](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)** 
+- 🎓📦📂 : &nbsp; **[Workshop 2020 EPSI](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)** &#127467;&#127479; | &#127468;&#127463;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet de groupe*]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un jeu vidéo sur le thème "Conception et valorisation d'un jeu vidéo et de son univers".
 <br>
 
-- 🎓📦🔒 : &nbsp; **Web App - Banque Alimentaire bordeaux**  
+- 🎓📦🔒 : &nbsp; **Web App - Banque Alimentaire bordeaux** &#127467;&#127479; | &#127468;&#127463; 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet Transversal - Projet de groupe*] 
 
@@ -48,14 +48,14 @@ Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en priv�
 
 ## 💻 Personnels
 
-- 💻📦📂 : &nbsp; [**Micro-CV**](https://github.com/L-Clem/cv)
+- 💻📦📂 : &nbsp; [**Micro-CV**](https://github.com/L-Clem/cv) &#127467;&#127479;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un site web SP (*Single Page*) simulant un CV au format papier A4.
 <br>
 
 - 💻📦🔒 : &nbsp; **Bot Discord serveur EPSI**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un Bot pour les premières années sur le serveur Discord du BDE (*Bureaux des Étudiants*) de mon école (EPSI bordeaux).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un Bot pour les premières années sur le serveur Discord du BdE (*Bureaux des Étudiants*) de mon école (EPSI bordeaux).
 <br>
 
 - 💻📦🔒 : &nbsp; **Générateur factures PDF**
@@ -63,7 +63,7 @@ Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en priv�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programme générateur de factures en JavaScript avec la bibliothèque Node.JS [PDF-Kit](https://pdfkit.org/).
 <br>
 
-- 💻/🎓📦📂 : &nbsp; [**MiniPy**](https://github.com/L-Clem/MiniPy)
+- 💻/🎓📦📂 : &nbsp; [**MiniPy**](https://github.com/L-Clem/MiniPy) &#127467;&#127479; | &#127468;&#127463;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository comprenant différents *one file scripts* en Python.
 <br>

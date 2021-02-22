@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20on%20my%20GitHub%20&#128075;&fontSize=40&animation=twinkling" />
 </center>
 
-&#127760; *Choisissez votre* &#128483; : [&#127467;&#127479;](./README.md) | [&#127468;&#127463;](./READMEEN.md)
+&#127760; *Choisissez votre* &#128483; : [&#127467;&#127479;](./README.md)
+
 
 ---
 
@@ -20,14 +21,14 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 
 ## 🎓 Courses
 
-- 🎓📦📂 : &nbsp; [**Workshop 2020 EPSI**](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)
+- 🎓📦📂 : &nbsp; [**Workshop 2020 EPSI**](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10) &#127468;&#127463; | &#127467;&#127479;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Group Project*]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a video game on the theme "Design and development of a video game and its universe".
 <br>
 
-- 🎓📦🔒 : **Web App - Food Bank bordeaux**  
+- 🎓📦🔒 : **Web App - Food Bank bordeaux**  &#127468;&#127463; | &#127467;&#127479;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Transversal Project - Group Project*] 
 
@@ -48,7 +49,7 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 
 ## 💻 Personal
 
-- 💻📦📂 : [**Micro-CV**](https://github.com/L-Clem/cv)
+- 💻📦📂 : [**Micro-CV**](https://github.com/L-Clem/cv) &#127467;&#127479;
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a SP (*Single Page*) website, simulating an A4 paper sheet resume.
 <br>
@@ -63,7 +64,7 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Invoice generator program in JavaScript with the Node.JS library [PDF-Kit](https://pdfkit.org/).
 <br>
 
-- 🎓📦📂 : [**MiniPy**](https://github.com/L-Clem/MiniPy)
+- 🎓📦📂 : [**MiniPy**](https://github.com/L-Clem/MiniPy) &#127468;&#127463; | &#127467;&#127479;
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository including different *one file scripts* in Python.
 <br>
