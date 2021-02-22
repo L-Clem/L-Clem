@@ -21,38 +21,60 @@ Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en priv�
 ### 🎓 Cours
 
 - 🎓📦📂 : &nbsp; **[Workshop 2020 EPSI](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)** 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet de groupe*]
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un jeu vidéo sur le thème "Conception et valorisation d'un jeu vidéo et de son univers".
 <br>
+
 - 🎓📦🔒 : &nbsp; **Web App - Banque Alimentaire bordeaux**  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet Transversal - Projet de groupe*] 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un site web regroupant l'ensemble des bénévoles de la banque alimentaire de bordeaux.
 <br>
+
 - 🎓 : &nbsp; **Infrastructure Réseau**  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Projet Transversal - Projet de groupe*] 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design de l'infrastructure réseau et équipement d'une entreprise.
 <br>
+
 - 🎓 : &nbsp; **Website personnel avec Back-End PHP**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un blog personnel.
 <br>
-###💻 Personnels
 
-- 💻📦📂 : &nbsp; **[Micro-CV](https://github.com/L-Clem/cv)**
+### 💻 Personnels
+
+- 💻📦📂 : &nbsp; [**Micro-CV**](https://github.com/L-Clem/cv)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un site web SP (*Single Page*) simulant un CV au format papier A4.
 <br>
+
 - 💻📦🔒 : &nbsp; **Bot Discord serveur EPSI**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un Bot pour les premières années sur le serveur Discord du BDE (*Bureaux des Étudiants*) de mon école (EPSI bordeaux).
 <br>
+
 - 💻📦🔒 : &nbsp; **Générateur factures PDF**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programme générateur de factures en JavaScript avec la bibliothèque Node.JS [PDF-Kit](https://pdfkit.org/).
 <br>
-- 💻/🎓📦📂 : &nbsp; **[MiniPy](https://github.com/L-Clem/MiniPy)**
+
+- 💻/🎓📦📂 : &nbsp; [**MiniPy**](https://github.com/L-Clem/MiniPy)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository comprenant différents *one file scripts* en Python.
 <br>
+
 - 💻 : &nbsp; **C&F d'un [Dodow<sup>&reg;</sup>](https://www.mydodow.com/dodow/fr-fr/home) avec un Arduino**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conception & Fabrication d'un réceptacle imprimé en 3D, d'un objet et d'un programme reproduisant les comportements et fonctionnalités d'un Dodow<sup>&reg;</sup>.
 <br> 
+
 - 💻 : &nbsp; **C&F d'une banque Monopoly avec cartes NFC**
+
 Conception & Fabrication d'une banque Monopoly alternative utilisant des cartes NFC et un Arduino + Keypad.
 
 
