@@ -10,7 +10,7 @@
 [Pour voir mon GitHub Skyline !](https://skyline.github.com/l-clem/2021)
 
 
-## Présentation 
+# Présentation 
 
 🔭 Vous trouverez ici une liste (non exhaustive et en constante évolution) de projets que j'ai pu réaliser jusqu'à ce jour, triés en deux catégories principales : 
 - 🎓 pour les projets d'études 
@@ -18,7 +18,7 @@
 
 Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en privé (🔒) :
 
-### 🎓 Cours
+## 🎓 Cours
 
 - 🎓📦📂 : &nbsp; **[Workshop 2020 EPSI](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)** 
 
@@ -46,7 +46,7 @@ Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en priv�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Création d'un blog personnel.
 <br>
 
-### 💻 Personnels
+## 💻 Personnels
 
 - 💻📦📂 : &nbsp; [**Micro-CV**](https://github.com/L-Clem/cv)
 
