@@ -49,7 +49,7 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 ## 💻 Personal
 
 - 💻📦📂 : [**Micro-CV**](https://github.com/L-Clem/cv)
-- 
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a SP (*Single Page*) website, simulating an A4 paper sheet resume.
 <br>
 
