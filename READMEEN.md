@@ -42,7 +42,7 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 <br>
 
 - 🎓 : **Personal website with PHP Back-End**
-- 
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a personal blog.
 <br>
 
