@@ -9,7 +9,8 @@
 [Check out my GitHub Skyline !](https://skyline.github.com/l-clem/2021)
 
 
-##Presentation 
+## Presentation 
+
 🔭 You will find here a list (non-exhaustive and in constant evolution) of projects I have been able to realise so far, sorted into two main categories : 
 - 🎓 for study projects 
 - and 💻 for projects carried out independently. 
@@ -17,41 +18,63 @@
 Some will be present on GitHub (📦) or not, in public (📂) or private (🔒) :
 
 
-###🎓 Courses
+### 🎓 Courses
 
-- 🎓📦📂 : &nbsp; **[Workshop 2020 EPSI](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)**
+- 🎓📦📂 : &nbsp; [**Workshop 2020 EPSI**](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Group Project*]
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a video game on the theme "Design and development of a video game and its universe".
 <br>
+
 - 🎓📦🔒 : **Web App - Food Bank bordeaux**  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*Transversal Project - Group Project*] 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a website bringing together all the volunteers of the bordeaux food bank.
 <br>
+
 - 🎓 : **Network Infrastructure**  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [*Transversal Project - Group Project*] 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design of a company's network infrastructure and equipment.
 <br>
+
 - 🎓 : **Personal website with PHP Back-End**
+- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a personal blog.
 <br>
-###💻 Personal
 
-- 💻📦📂: **[Micro-CV](https://github.com/L-Clem/cv).**
+### 💻 Personal
+
+- 💻📦📂 : [**Micro-CV**](https://github.com/L-Clem/cv)
+- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a SP (*Single Page*) website, simulating an A4 paper sheet resume.
 <br>
-- 💻📦🔒 : **Bot Discord server EPSI.**
+
+- 💻📦🔒 : **Bot Discord server EPSI**
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a Bot for the first years on the Discord server of the BDE (*Student Offices*) of my school (EPSI Bordeaux).
 <br>
-- 💻📦🔒 : **PDF invoice generator.**
+
+- 💻📦🔒 : **PDF invoice generator**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Invoice generator program in JavaScript with the Node.JS library [PDF-Kit](https://pdfkit.org/).
 <br>
-- 🎓📦📂 : **[MiniPy](https://github.com/L-Clem/MiniPy).**
+
+- 🎓📦📂 : [**MiniPy**](https://github.com/L-Clem/MiniPy)
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository including different *one file scripts* in Python.
 <br>
-- 💻 : **D&M of a [Dodow<sup>&reg;</sup>](https://www.mydodow.com/dodow/fr-fr/home) with an Arduino.**
+
+- 💻 : **D&M of a [Dodow<sup>&reg;</sup>](https://www.mydodow.com/dodow/fr-fr/home) with an Arduino**
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design & Manufacturing of a 3D printed receptacle, an object and a program reproducing the behaviours and functionalities of a Dodow<sup>&reg;</sup>.
 <br> 
-- 💻 : **D&M of a Monopoly bank with NFC cards.**
+
+- 💻 : **D&M of a Monopoly bank with NFC cards**
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design & Manufacturing of an alternative Monopoly bank using NFC cards and an Arduino + Keypad.
 
 
