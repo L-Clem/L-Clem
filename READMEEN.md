@@ -20,6 +20,8 @@ My Languages : | Tools I use :
 
 ---
 
+<br>
+
 # Presentation 
 
 🔭 You will find here a list (non-exhaustive and in constant evolution) of projects I have been able to realise so far, sorted into two main categories : 
