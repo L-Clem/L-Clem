@@ -20,9 +20,8 @@ Mes langages : | Mes outils :  | Mes technologies |
 
 ---
 
-<br>
+# Présentation
 
-# Présentation 
 <details>
 <summary> 🔭 Vous trouverez ici une liste (non exhaustive et en constante évolution) de projets que j'ai pu réaliser jusqu'à ce jour, triés en deux catégories principales : 
   
