@@ -82,7 +82,7 @@ Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en priv�
 
 - 💻 : &nbsp; **C&F d'un [Dodow<sup>&reg;</sup>](https://www.mydodow.com/dodow/fr-fr/home) avec un Arduino**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conception & Fabrication d'un réceptacle imprimé en 3D, d'un objet et d'un programme reproduisant les comportements et fonctionnalités d'un Dodow<sup>&reg;</sup>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conception & Fabrication d'un boitier imprimé en 3D, d'un objet et d'un programme reproduisant les comportements et fonctionnalités d'un Dodow<sup>&reg;</sup>.
 <br> 
 
 - 💻 : &nbsp; **C&F d'une banque Monopoly avec cartes NFC**
