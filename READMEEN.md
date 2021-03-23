@@ -20,8 +20,6 @@ My Languages : | Tools I use :  | My technlogies  |
 
 ---
 
-<br>
-
 # Presentation 
 
 <details>
