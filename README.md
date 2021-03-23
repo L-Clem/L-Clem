@@ -23,12 +23,15 @@ Mes langages : | Mes outils :
 <br>
 
 # Présentation 
-
-🔭 Vous trouverez ici une liste (non exhaustive et en constante évolution) de projets que j'ai pu réaliser jusqu'à ce jour, triés en deux catégories principales : 
-- 🎓 pour les projets d'études 
+<details>
+<summary> 🔭 Vous trouverez ici une liste (non exhaustive et en constante évolution) de projets que j'ai pu réaliser jusqu'à ce jour, triés en deux catégories principales : 
+  
+- 🎓 pour les projets d'études.
 - et 💻 pour les projets réalisés en autonomie. 
 
 Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en privé (🔒) :
+
+</summary> 
 
 ## 🎓 Cours
 
@@ -88,3 +91,5 @@ Certains seront présents sur GitHub (📦) ou pas, en public (📂) ou en priv�
 - 💻 : &nbsp; **C&F d'une banque Monopoly avec cartes NFC**
 
 Conception & Fabrication d'une banque Monopoly alternative utilisant des cartes NFC et un Arduino + Keypad.
+
+</details>
