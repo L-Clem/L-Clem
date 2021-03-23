@@ -83,7 +83,7 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 
 - 💻 : **D&M of a [Dodow<sup>&reg;</sup>](https://www.mydodow.com/dodow/fr-fr/home) with an Arduino**
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design & Manufacturing of a 3D printed receptacle, an object and a program reproducing the behaviours and functionalities of a Dodow<sup>&reg;</sup>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design & Manufacturing of a 3D printed case, an object and a program reproducing the behaviours and functionalities of a Dodow<sup>&reg;</sup>.
 <br> 
 
 - 💻 : **D&M of a Monopoly bank with NFC cards**
