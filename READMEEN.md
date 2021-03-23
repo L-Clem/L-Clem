@@ -34,7 +34,8 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 
 </summary> 
 
-## 🎓 Courses
+<details>
+<summary><h2 style="display: inline">🎓 Courses<h2></summary> 
 
 - 🎓📦📂 : &nbsp; [**Workshop 2020 EPSI**](https://github.com/L-Clem/Workshop-2020-EPSI_B1-groupe-10) &#127468;&#127463; | &#127467;&#127479;
 
@@ -62,6 +63,8 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of a personal blog.
 <br>
 
+</details>
+ 
 ## 💻 Personal
 
 - 💻📦📂 : [**Micro-CV**](https://github.com/L-Clem/cv) &#127467;&#127479;
