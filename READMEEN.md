@@ -24,12 +24,15 @@ My Languages : | Tools I use :
 
 # Presentation 
 
-🔭 You will find here a list (non-exhaustive and in constant evolution) of projects I have been able to realise so far, sorted into two main categories : 
-- 🎓 for study projects 
+<details>
+<summary>🔭 You will find here a list (non-exhaustive and in constant evolution) of projects I have been able to realise so far, sorted into two main categories : 
+
+- 🎓 for study projects.
 - and 💻 for projects carried out independently. 
 
 Some will be present on GitHub (📦) or not, in public (📂) or private (🔒) :
 
+</summary> 
 
 ## 🎓 Courses
 
@@ -89,3 +92,5 @@ Some will be present on GitHub (📦) or not, in public (📂) or private (🔒)
 - 💻 : **D&M of a Monopoly bank with NFC cards**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design & Manufacturing of an alternative Monopoly bank using NFC cards and an Arduino + Keypad.
+
+<details>
