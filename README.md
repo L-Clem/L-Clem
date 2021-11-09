@@ -6,7 +6,7 @@
 
 ---
 
-[Pour voir mon GitHub Skyline !](https://skyline.github.com/l-clem/2021)
+[Pour voir mon GitHub Skyline 🏙 !](https://skyline.github.com/l-clem/2021)
 
 <br>
 
