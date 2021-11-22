@@ -1,3 +1,4 @@
+Last update : 04/2020
 <center>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20on%20my%20GitHub%20&#128075;&fontSize=40&animation=twinkling" />
 </center>
@@ -5,8 +6,7 @@
 &#127760; *Choisissez votre* &#128483; : [&#127467;&#127479;](./README.md)
 
 ---
-Last update : 04/2020
-<br>
+
 [Check out my GitHub Skyline 🏙 !](https://skyline.github.com/l-clem/2021)
 
 <br>
