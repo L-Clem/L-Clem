@@ -1,4 +1,3 @@
-Last update : 04/2020
 <center>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20on%20my%20GitHub%20&#128075;&fontSize=40&animation=twinkling" />
 </center>
@@ -22,6 +21,7 @@ My Languages : | Tools I use :  | My technlogies  |
 ---
 
 # Presentation 
+Last update : 04/2020
 
 <details>
 <summary>🔭 You will find here a list (non-exhaustive and in constant evolution) of projects I have been able to realise so far, sorted into two main categories : 
