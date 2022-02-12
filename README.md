@@ -1,4 +1,3 @@
-Dernière mise à jour : 04/2020 
 <center>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Bienvenue%20sur%20mon%20GitHub%20&#128075;&fontSize=40&animation=twinkling">
 </center>
@@ -22,7 +21,8 @@ Mes langages : | Mes outils :  | Mes technologies |
 
 ---
 
-# Présentation
+# Présentation 
+Dernière mise à jour : 04/2020 
 
 <details>
 <summary> 🔭 Vous trouverez ici une liste (non exhaustive et en constante évolution) de projets que j'ai pu réaliser jusqu'à ce jour, triés en deux catégories principales : 
