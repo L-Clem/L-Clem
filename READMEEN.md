@@ -24,7 +24,7 @@ My Languages : | Tools I use :  | My technlogies  |
 Last update : 04/2020
 
 <details>
-<summary>🔭 You will find here a list (non-exhaustive and in constant evolution) of projects I have been able to realise so far, sorted into two main categories : 
+<summary>🔭 You will find here a list (not exhaustive and in constant evolution) of projects I have been able to realise so far, sorted into two main categories : 
 
 - 🎓 for study projects.
 - and 💻 for projects carried out independently. 
